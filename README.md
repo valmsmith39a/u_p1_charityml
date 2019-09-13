@@ -1,6 +1,7 @@
-# Data Scientist Nanodegree
+# Udacity Project: Finding Donors for CharityML
 # Supervised Learning
-## Project: Finding Donors for CharityML
+
+This project was completed for Udacity's Machine Learning: Introduction nanodegree. It employs multiple supervised learning algorithms (Gaussian Naive Bayes, Support Vector Machine and Gradient Boosting Classifier) to predict if an individual earns more than 50,000 per year. The results could be used by a charity organization to help determine who to approach for donations. The dataset is from the UCI Machine Learning Respository, based on the 1994 U.S. Census.
 
 ### Install
 
